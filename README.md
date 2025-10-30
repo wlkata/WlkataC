@@ -435,10 +435,7 @@ Follows Keep a Changelog and SemVer.
 - Support basic control for Mirobot, MT4, E4, Haro380, MS4220.
 - Provide RS485 and UART examples.
 
-### [Unreleased]
-- Docs: add API tables, minimal examples, unify serial/address notes.
-- Docs: refine examples and internationalization readability.
-
 ## Communication
 
 For further instructions, contact WLkata personnel at the [WLkata Download Page](https://www.wlkata.com/pages/download-center).
+
